@@ -1,0 +1,2 @@
+# AB-Testing-Marketing-Advertisement
+In this project, the task was to test whether a particular variant of an AD appearing on a client's website performs better or worse than the other variant of the same AD.   A/B testing is appropriate here as it will rely on statistical analysis to determine which variant of the AD does better. A/B testing will also give us more objective and statistical evidence that proves which AD is better.
